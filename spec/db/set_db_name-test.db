@@ -1,0 +1,2 @@
+INSERT INTO costume_stores (name, location, coustume_id, costume_inventory, num_of_employees, operational_status, opening_time, closing_time)
+VALUES("IM an asshole")
